@@ -3,7 +3,7 @@
     "background_color": "#89491b",
     "display": "fullscreen",
     "scope": "/",
-    "start_url": "TU_LINK_DO_STRONY_NA_GITHUB",
+    "start_url": "https://tatianalazareva.github.io/cat_blog_pwa/",
     "name": "Cat Aplication",
     "short_name": "Cat App",
     "description": "Aplikacja PWA",

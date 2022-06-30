@@ -1,5 +1,5 @@
 # Kocia aplikacja PWA
 ## Link do strony na githubie
-    TU_DAJ_LINK_DO_STRONY_NA_GITHUBIE
+    https://tatianalazareva.github.io/cat_blog_pwa/
 
 # Aplikacja stworzona na Zaawansowane technologie internetowe.
